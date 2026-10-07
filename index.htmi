@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arian Alizade - Resume</title>
+    <style>
+        body { font-family: Tahoma, sans-serif; background-color: #f4f4f9; text-align: center; padding: 50px; }
+        h1 { color: #333; }
+        p { color: #666; font-size: 18px; }
+    </style>
+</head>
+<body>
+    <h1>سلام، من آرین علیزاده هستم</h1>
+    <p>به سایت شخصی من خوش آمدید. اینجا رزومه من قرار خواهد گرفت.</p>
+</body>
+</html>
